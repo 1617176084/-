@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="jiaru" xml:space="preserve">
+    <value>Participar</value>
+  </data>
+  <data name="lishijilu.Text" xml:space="preserve">
+    <value>Registro histórico</value>
+  </data>
+  <data name="liShiJiLu2" xml:space="preserve">
+    <value>Registro histórico</value>
+  </data>
+  <data name="liuLanSheZhi" xml:space="preserve">
+    <value>Configuración del explorador</value>
+  </data>
+  <data name="noJiLu" xml:space="preserve">
+    <value>No hay registros históricos</value>
+  </data>
+  <data name="noShuQian" xml:space="preserve">
+    <value>No has guardado ningún marcadores</value>
+  </data>
+  <data name="qingkongLishi" xml:space="preserve">
+    <value>¿Decidido a vaciar estos registros históricos?</value>
+  </data>
+  <data name="qingKongShuQian" xml:space="preserve">
+    <value>¿Decidido a vaciarlos?</value>
+  </data>
+  <data name="qingKongTiXing" xml:space="preserve">
+    <value>Recordatorio de vacío</value>
+  </data>
+  <data name="quxiao" xml:space="preserve">
+    <value>cancelar</value>
+  </data>
+  <data name="shanchu" xml:space="preserve">
+    <value>Vacío </value>
+  </data>
+  <data name="shezhi.Text" xml:space="preserve">
+    <value>Configuración</value>
+  </data>
+  <data name="sheZhi2" xml:space="preserve">
+    <value>Configuración</value>
+  </data>
+  <data name="shifouJiarushuqian" xml:space="preserve">
+    <value>¿Marcado para facilitar el encontrar más adelante este sitio Web?</value>
+  </data>
+  <data name="shouye.Text" xml:space="preserve">
+    <value>Primera página</value>
+  </data>
+  <data name="shuqian.Text" xml:space="preserve">
+    <value>marcador</value>
+  </data>
+  <data name="shuQian2" xml:space="preserve">
+    <value>marcador</value>
+  </data>
+  <data name="tianShuQian" xml:space="preserve">
+    <value>Marcador</value>
+  </data>
+  <data name="tiaoJiLu" xml:space="preserve">
+    <value>Artículo historia</value>
+  </data>
+  <data name="wuXiaZai" xml:space="preserve">
+    <value>Descarga gratuita</value>
+  </data>
+  <data name="xiazai.Text" xml:space="preserve">
+    <value>descargar</value>
+  </data>
+  <data name="xiaZai2" xml:space="preserve">
+    <value>Descargar registro</value>
+  </data>
+  <data name="youqingtixing" xml:space="preserve">
+    <value>Consejos</value>
+  </data>
+  <data name="zanbujiaru" xml:space="preserve">
+    <value>No se afilian</value>
+  </data>
+  <data name="gotoStore.Text" xml:space="preserve">
+    <value>Para comprar nuestros</value>
+  </data>
+  <data name="ThemeSettingOk" xml:space="preserve">
+    <value>Color del tema establecido con éxito, reiniciar el programa para hacer que la configuración tome efecto</value>
+  </data>
+  <data name="ThemeSettingFail" xml:space="preserve">
+    <value>Instalación fallida, en contacto con los desarrolladores de arreglar este problema (BUG)</value>
+  </data>
+  <data name="ThemeColor.Text" xml:space="preserve">
+    <value>color para temas</value>
+  </data>
+  <data name="AppName" xml:space="preserve">
+    <value>Navegador rápido</value>
+  </data>
+</root>

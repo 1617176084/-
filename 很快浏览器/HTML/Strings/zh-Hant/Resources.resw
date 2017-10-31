@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="jiaru" xml:space="preserve">
+    <value>加入</value>
+  </data>
+  <data name="lishijilu.Text" xml:space="preserve">
+    <value>歷史紀錄</value>
+  </data>
+  <data name="liShiJiLu2" xml:space="preserve">
+    <value>歷史紀錄</value>
+  </data>
+  <data name="liuLanSheZhi" xml:space="preserve">
+    <value>瀏覽器設置</value>
+  </data>
+  <data name="noJiLu" xml:space="preserve">
+    <value>無歷史記錄</value>
+  </data>
+  <data name="noShuQian" xml:space="preserve">
+    <value>您還沒保存過書簽</value>
+  </data>
+  <data name="qingkongLishi" xml:space="preserve">
+    <value>確定清空這些歷史紀錄？</value>
+  </data>
+  <data name="qingKongShuQian" xml:space="preserve">
+    <value>確定清空這些書簽？</value>
+  </data>
+  <data name="qingKongTiXing" xml:space="preserve">
+    <value>清空提醒</value>
+  </data>
+  <data name="quxiao" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="shanchu" xml:space="preserve">
+    <value>空 </value>
+  </data>
+  <data name="shezhi.Text" xml:space="preserve">
+    <value>設定</value>
+  </data>
+  <data name="sheZhi2" xml:space="preserve">
+    <value>設定</value>
+  </data>
+  <data name="shifouJiarushuqian" xml:space="preserve">
+    <value>是否加入書簽，以方便以後快速找到此網址？</value>
+  </data>
+  <data name="shouye.Text" xml:space="preserve">
+    <value>首頁</value>
+  </data>
+  <data name="shuqian.Text" xml:space="preserve">
+    <value>書籤</value>
+  </data>
+  <data name="shuQian2" xml:space="preserve">
+    <value>書籤</value>
+  </data>
+  <data name="tianShuQian" xml:space="preserve">
+    <value>條書簽</value>
+  </data>
+  <data name="tiaoJiLu" xml:space="preserve">
+    <value>條歷史紀錄</value>
+  </data>
+  <data name="wuXiaZai" xml:space="preserve">
+    <value>無下載記錄</value>
+  </data>
+  <data name="xiazai.Text" xml:space="preserve">
+    <value>下載</value>
+  </data>
+  <data name="xiaZai2" xml:space="preserve">
+    <value>下載記錄</value>
+  </data>
+  <data name="youqingtixing" xml:space="preserve">
+    <value>友情提示</value>
+  </data>
+  <data name="zanbujiaru" xml:space="preserve">
+    <value>暫時不加入</value>
+  </data>
+  <data name="gotoStore.Text" xml:space="preserve">
+    <value>去商店評價我們</value>
+  </data>
+  <data name="ThemeColor.Text" xml:space="preserve">
+    <value>佈景主題色彩</value>
+  </data>
+  <data name="ThemeSettingFail" xml:space="preserve">
+    <value>設置失敗，請聯繫開發者進行修復此問題（BUG）</value>
+  </data>
+  <data name="ThemeSettingOk" xml:space="preserve">
+    <value>主題色設置成功，請重啟本程式，才能使本次設置生效</value>
+  </data>
+  <data name="AppName" xml:space="preserve">
+    <value>很快瀏覽器</value>
+  </data>
+</root>

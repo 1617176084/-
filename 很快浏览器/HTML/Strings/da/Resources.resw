@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="jiaru" xml:space="preserve">
+    <value>Deltag</value>
+  </data>
+  <data name="lishijilu.Text" xml:space="preserve">
+    <value>Historisk oversigt</value>
+  </data>
+  <data name="liShiJiLu2" xml:space="preserve">
+    <value>Historisk oversigt</value>
+  </data>
+  <data name="liuLanSheZhi" xml:space="preserve">
+    <value>Browser-indstillinger</value>
+  </data>
+  <data name="noJiLu" xml:space="preserve">
+    <value>Ingen historiske optegnelser</value>
+  </data>
+  <data name="noShuQian" xml:space="preserve">
+    <value>Du har ikke gemt nogen bogmærker</value>
+  </data>
+  <data name="qingkongLishi" xml:space="preserve">
+    <value>Fast besluttet på at tømme disse historiske optegnelser?</value>
+  </data>
+  <data name="qingKongShuQian" xml:space="preserve">
+    <value>Fast besluttet på at tømme dem?</value>
+  </data>
+  <data name="qingKongTiXing" xml:space="preserve">
+    <value>Tom påmindelse</value>
+  </data>
+  <data name="quxiao" xml:space="preserve">
+    <value>annullere</value>
+  </data>
+  <data name="shanchu" xml:space="preserve">
+    <value>Tom </value>
+  </data>
+  <data name="shezhi.Text" xml:space="preserve">
+    <value>Indstillinger</value>
+  </data>
+  <data name="sheZhi2" xml:space="preserve">
+    <value>Indstillinger</value>
+  </data>
+  <data name="shifouJiarushuqian" xml:space="preserve">
+    <value>Bogmærke for at lette senere finde dette websted?</value>
+  </data>
+  <data name="shouye.Text" xml:space="preserve">
+    <value>Første side</value>
+  </data>
+  <data name="shuqian.Text" xml:space="preserve">
+    <value>bogmærke</value>
+  </data>
+  <data name="shuQian2" xml:space="preserve">
+    <value>bogmærke</value>
+  </data>
+  <data name="tianShuQian" xml:space="preserve">
+    <value>Bogmærke</value>
+  </data>
+  <data name="tiaoJiLu" xml:space="preserve">
+    <value>Artikel historie</value>
+  </data>
+  <data name="wuXiaZai" xml:space="preserve">
+    <value>Gratis download</value>
+  </data>
+  <data name="xiazai.Text" xml:space="preserve">
+    <value>hent</value>
+  </data>
+  <data name="xiaZai2" xml:space="preserve">
+    <value>Download record</value>
+  </data>
+  <data name="youqingtixing" xml:space="preserve">
+    <value>Tips</value>
+  </data>
+  <data name="zanbujiaru" xml:space="preserve">
+    <value>Ikke tilslutter sig</value>
+  </data>
+  <data name="gotoStore.Text" xml:space="preserve">
+    <value>Shop vores</value>
+  </data>
+  <data name="ThemeSettingOk" xml:space="preserve">
+    <value>Tema farvesæt korrekt, Genstart programmet for at gøre indstillingerne for træder i kraft</value>
+  </data>
+  <data name="ThemeSettingFail" xml:space="preserve">
+    <value>Installationen mislykkedes, kontakt udviklere lave indeværende oplag (fejl)</value>
+  </data>
+  <data name="ThemeColor.Text" xml:space="preserve">
+    <value>temafarve</value>
+  </data>
+  <data name="AppName" xml:space="preserve">
+    <value>Hurtig browser</value>
+  </data>
+</root>

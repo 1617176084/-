@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="jiaru" xml:space="preserve">
+    <value>Joindre</value>
+  </data>
+  <data name="lishijilu.Text" xml:space="preserve">
+    <value>Dossier historique</value>
+  </data>
+  <data name="liShiJiLu2" xml:space="preserve">
+    <value>Dossier historique</value>
+  </data>
+  <data name="liuLanSheZhi" xml:space="preserve">
+    <value>Paramètres du navigateur</value>
+  </data>
+  <data name="noJiLu" xml:space="preserve">
+    <value>Aucun document historique</value>
+  </data>
+  <data name="noShuQian" xml:space="preserve">
+    <value>Vous n’avez pas enregistré tous les signets</value>
+  </data>
+  <data name="qingkongLishi" xml:space="preserve">
+    <value>Décidés à vider ces documents historiques ?</value>
+  </data>
+  <data name="qingKongShuQian" xml:space="preserve">
+    <value>Déterminé à les vider ?</value>
+  </data>
+  <data name="qingKongTiXing" xml:space="preserve">
+    <value>Rappel de vide</value>
+  </data>
+  <data name="quxiao" xml:space="preserve">
+    <value>annuler</value>
+  </data>
+  <data name="shanchu" xml:space="preserve">
+    <value>Vide </value>
+  </data>
+  <data name="shezhi.Text" xml:space="preserve">
+    <value>Paramètres</value>
+  </data>
+  <data name="sheZhi2" xml:space="preserve">
+    <value>Paramètres</value>
+  </data>
+  <data name="shifouJiarushuqian" xml:space="preserve">
+    <value>Signet pour faciliter plus tard trouver ce site Web ?</value>
+  </data>
+  <data name="shouye.Text" xml:space="preserve">
+    <value>Première page</value>
+  </data>
+  <data name="shuqian.Text" xml:space="preserve">
+    <value>signet</value>
+  </data>
+  <data name="shuQian2" xml:space="preserve">
+    <value>signet</value>
+  </data>
+  <data name="tianShuQian" xml:space="preserve">
+    <value>Signet</value>
+  </data>
+  <data name="tiaoJiLu" xml:space="preserve">
+    <value>Histoire de l’article</value>
+  </data>
+  <data name="wuXiaZai" xml:space="preserve">
+    <value>Téléchargement gratuit</value>
+  </data>
+  <data name="xiazai.Text" xml:space="preserve">
+    <value>télécharger</value>
+  </data>
+  <data name="xiaZai2" xml:space="preserve">
+    <value>Télécharger la notice</value>
+  </data>
+  <data name="youqingtixing" xml:space="preserve">
+    <value>Conseils</value>
+  </data>
+  <data name="zanbujiaru" xml:space="preserve">
+    <value>Ne pas joindre</value>
+  </data>
+  <data name="gotoStore.Text" xml:space="preserve">
+    <value>Boutique notre</value>
+  </data>
+  <data name="ThemeSettingOk" xml:space="preserve">
+    <value>Couleur du thème définie avec succès, redémarrez le programme afin que les paramètres prennent effet</value>
+  </data>
+  <data name="ThemeSettingFail" xml:space="preserve">
+    <value>Le programme d’installation a échoué, contacter les développeurs de résoudre ce problème (BUG)</value>
+  </data>
+  <data name="ThemeColor.Text" xml:space="preserve">
+    <value>couleur de thème</value>
+  </data>
+  <data name="AppName" xml:space="preserve">
+    <value>Navigateur rapide</value>
+  </data>
+</root>

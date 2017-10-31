@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="jiaru" xml:space="preserve">
+    <value>참가</value>
+  </data>
+  <data name="lishijilu.Text" xml:space="preserve">
+    <value>역사적 기록</value>
+  </data>
+  <data name="liShiJiLu2" xml:space="preserve">
+    <value>역사적 기록</value>
+  </data>
+  <data name="liuLanSheZhi" xml:space="preserve">
+    <value>브라우저 설정</value>
+  </data>
+  <data name="noJiLu" xml:space="preserve">
+    <value>아니 역사 기록</value>
+  </data>
+  <data name="noShuQian" xml:space="preserve">
+    <value>모든 책갈피를 저장 하지 않은</value>
+  </data>
+  <data name="qingkongLishi" xml:space="preserve">
+    <value>이러한 역사적 기록을를 결정?</value>
+  </data>
+  <data name="qingKongShuQian" xml:space="preserve">
+    <value>그들 빈 결정?</value>
+  </data>
+  <data name="qingKongTiXing" xml:space="preserve">
+    <value>빈 알림</value>
+  </data>
+  <data name="quxiao" xml:space="preserve">
+    <value>취소하다</value>
+  </data>
+  <data name="shanchu" xml:space="preserve">
+    <value>빈 </value>
+  </data>
+  <data name="shezhi.Text" xml:space="preserve">
+    <value>설정</value>
+  </data>
+  <data name="sheZhi2" xml:space="preserve">
+    <value>설정</value>
+  </data>
+  <data name="shifouJiarushuqian" xml:space="preserve">
+    <value>용이 나중 발견이 웹 사이트를 즐겨찾기에?</value>
+  </data>
+  <data name="shouye.Text" xml:space="preserve">
+    <value>첫 페이지</value>
+  </data>
+  <data name="shuqian.Text" xml:space="preserve">
+    <value>책갈피</value>
+  </data>
+  <data name="shuQian2" xml:space="preserve">
+    <value>책갈피</value>
+  </data>
+  <data name="tianShuQian" xml:space="preserve">
+    <value>책갈피</value>
+  </data>
+  <data name="tiaoJiLu" xml:space="preserve">
+    <value>문서 역사</value>
+  </data>
+  <data name="wuXiaZai" xml:space="preserve">
+    <value>무료 다운로드</value>
+  </data>
+  <data name="xiazai.Text" xml:space="preserve">
+    <value>다운로드</value>
+  </data>
+  <data name="xiaZai2" xml:space="preserve">
+    <value>다운로드 기록</value>
+  </data>
+  <data name="youqingtixing" xml:space="preserve">
+    <value>팁</value>
+  </data>
+  <data name="zanbujiaru" xml:space="preserve">
+    <value>가입 하지 않으면</value>
+  </data>
+  <data name="gotoStore.Text" xml:space="preserve">
+    <value>게 우리의</value>
+  </data>
+  <data name="ThemeSettingOk" xml:space="preserve">
+    <value>성공적으로 설정 테마 색상 설정을 적용 하려면 프로그램을 다시 시작</value>
+  </data>
+  <data name="ThemeSettingFail" xml:space="preserve">
+    <value>설치 실패, 연락처 (버그)이이 문제를 해결 하는 개발자</value>
+  </data>
+  <data name="ThemeColor.Text" xml:space="preserve">
+    <value>테마 색</value>
+  </data>
+  <data name="AppName" xml:space="preserve">
+    <value>빠른 브라우저</value>
+  </data>
+</root>

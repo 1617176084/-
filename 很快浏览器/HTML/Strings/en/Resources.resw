@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="jiaru" xml:space="preserve">
+    <value>Join</value>
+  </data>
+  <data name="lishijilu.Text" xml:space="preserve">
+    <value>Historical record</value>
+  </data>
+  <data name="liShiJiLu2" xml:space="preserve">
+    <value>Historical record</value>
+  </data>
+  <data name="liuLanSheZhi" xml:space="preserve">
+    <value>Browser Settings</value>
+  </data>
+  <data name="noJiLu" xml:space="preserve">
+    <value>No historical records</value>
+  </data>
+  <data name="noShuQian" xml:space="preserve">
+    <value>You haven't saved any bookmarks</value>
+  </data>
+  <data name="qingkongLishi" xml:space="preserve">
+    <value>Determined to empty these historical records?</value>
+  </data>
+  <data name="qingKongShuQian" xml:space="preserve">
+    <value>Determined to empty them?</value>
+  </data>
+  <data name="qingKongTiXing" xml:space="preserve">
+    <value>Empty reminder</value>
+  </data>
+  <data name="quxiao" xml:space="preserve">
+    <value>Remove</value>
+  </data>
+  <data name="shanchu" xml:space="preserve">
+    <value>Empty </value>
+  </data>
+  <data name="shezhi.Text" xml:space="preserve">
+    <value>Settings</value>
+  </data>
+  <data name="sheZhi2" xml:space="preserve">
+    <value>Settings</value>
+  </data>
+  <data name="shifouJiarushuqian" xml:space="preserve">
+    <value>Bookmarked to facilitate later find this Web site?</value>
+  </data>
+  <data name="shouye.Text" xml:space="preserve">
+    <value>First</value>
+  </data>
+  <data name="shuqian.Text" xml:space="preserve">
+    <value>bookmark</value>
+  </data>
+  <data name="shuQian2" xml:space="preserve">
+    <value>bookmark</value>
+  </data>
+  <data name="tianShuQian" xml:space="preserve">
+    <value>Bookmark</value>
+  </data>
+  <data name="tiaoJiLu" xml:space="preserve">
+    <value>Article history</value>
+  </data>
+  <data name="wuXiaZai" xml:space="preserve">
+    <value>Free download</value>
+  </data>
+  <data name="xiazai.Text" xml:space="preserve">
+    <value>download</value>
+  </data>
+  <data name="xiaZai2" xml:space="preserve">
+    <value>Download record</value>
+  </data>
+  <data name="youqingtixing" xml:space="preserve">
+    <value>Tips</value>
+  </data>
+  <data name="zanbujiaru" xml:space="preserve">
+    <value>Do not join</value>
+  </data>
+  <data name="gotoStore.Text" xml:space="preserve">
+    <value>To shop our</value>
+  </data>
+  <data name="ThemeSettingOk" xml:space="preserve">
+    <value>Theme color set successfully, restart the program in order to make the settings take effect</value>
+  </data>
+  <data name="ThemeSettingFail" xml:space="preserve">
+    <value>Setup failed, contact the developers fix this issue (BUG)</value>
+  </data>
+  <data name="ThemeColor.Text" xml:space="preserve">
+    <value>theme color</value>
+  </data>
+  <data name="AppName" xml:space="preserve">
+    <value>Fast browser</value>
+  </data>
+</root>

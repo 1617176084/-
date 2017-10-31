@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="jiaru" xml:space="preserve">
+    <value>присоединиться</value>
+  </data>
+  <data name="lishijilu.Text" xml:space="preserve">
+    <value>Исторический рекорд</value>
+  </data>
+  <data name="liShiJiLu2" xml:space="preserve">
+    <value>Исторический рекорд</value>
+  </data>
+  <data name="liuLanSheZhi" xml:space="preserve">
+    <value>Параметры браузера</value>
+  </data>
+  <data name="noJiLu" xml:space="preserve">
+    <value>Не исторические записи</value>
+  </data>
+  <data name="noShuQian" xml:space="preserve">
+    <value>Вы не сохранили все закладки</value>
+  </data>
+  <data name="qingkongLishi" xml:space="preserve">
+    <value>Будучи преисполнен решимости очистить эти исторические записи?</value>
+  </data>
+  <data name="qingKongShuQian" xml:space="preserve">
+    <value>Будучи преисполнен решимости пустые их?</value>
+  </data>
+  <data name="qingKongTiXing" xml:space="preserve">
+    <value>Пустой напоминание</value>
+  </data>
+  <data name="quxiao" xml:space="preserve">
+    <value>отменить</value>
+  </data>
+  <data name="shanchu" xml:space="preserve">
+    <value>Пустой </value>
+  </data>
+  <data name="shezhi.Text" xml:space="preserve">
+    <value>параметры</value>
+  </data>
+  <data name="sheZhi2" xml:space="preserve">
+    <value>параметры</value>
+  </data>
+  <data name="shifouJiarushuqian" xml:space="preserve">
+    <value>Закладка для облегчения позже найти этот веб-сайт?</value>
+  </data>
+  <data name="shouye.Text" xml:space="preserve">
+    <value>Первая страница</value>
+  </data>
+  <data name="shuqian.Text" xml:space="preserve">
+    <value>закладка</value>
+  </data>
+  <data name="shuQian2" xml:space="preserve">
+    <value>закладка</value>
+  </data>
+  <data name="tianShuQian" xml:space="preserve">
+    <value>Закладка</value>
+  </data>
+  <data name="tiaoJiLu" xml:space="preserve">
+    <value>Статья история</value>
+  </data>
+  <data name="wuXiaZai" xml:space="preserve">
+    <value>Скачать бесплатно</value>
+  </data>
+  <data name="xiazai.Text" xml:space="preserve">
+    <value>скачать</value>
+  </data>
+  <data name="xiaZai2" xml:space="preserve">
+    <value>Скачать запись</value>
+  </data>
+  <data name="youqingtixing" xml:space="preserve">
+    <value>Советы</value>
+  </data>
+  <data name="zanbujiaru" xml:space="preserve">
+    <value>Не присоединиться к</value>
+  </data>
+  <data name="gotoStore.Text" xml:space="preserve">
+    <value>Магазин нашей</value>
+  </data>
+  <data name="ThemeSettingOk" xml:space="preserve">
+    <value>Цвета темы, установлен успешно, перезапустите программу для того, чтобы настройки вступили в силу</value>
+  </data>
+  <data name="ThemeSettingFail" xml:space="preserve">
+    <value>Программа установки не удалось, обратитесь разработчиков исправить эту ошибку (ошибка)</value>
+  </data>
+  <data name="ThemeColor.Text" xml:space="preserve">
+    <value>цвет темы</value>
+  </data>
+  <data name="AppName" xml:space="preserve">
+    <value>Быстрый браузер</value>
+  </data>
+</root>

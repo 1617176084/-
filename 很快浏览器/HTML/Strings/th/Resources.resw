@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="jiaru" xml:space="preserve">
+    <value>เข้าร่วม</value>
+  </data>
+  <data name="lishijilu.Text" xml:space="preserve">
+    <value>บันทึกประวัติศาสตร์</value>
+  </data>
+  <data name="liShiJiLu2" xml:space="preserve">
+    <value>บันทึกประวัติศาสตร์</value>
+  </data>
+  <data name="liuLanSheZhi" xml:space="preserve">
+    <value>การตั้งค่าเบราว์เซอร์</value>
+  </data>
+  <data name="noJiLu" xml:space="preserve">
+    <value>ไม่มีบันทึกทางประวัติศาสตร์</value>
+  </data>
+  <data name="noShuQian" xml:space="preserve">
+    <value>คุณไม่ได้บันทึกใด ๆ</value>
+  </data>
+  <data name="qingkongLishi" xml:space="preserve">
+    <value>กำหนดการล้างระเบียนประวัติศาสตร์เหล่านี้อย่างไร</value>
+  </data>
+  <data name="qingKongShuQian" xml:space="preserve">
+    <value>กำหนดเพื่อล้างพวกเขา</value>
+  </data>
+  <data name="qingKongTiXing" xml:space="preserve">
+    <value>จดหมายเตือนชำระเงินที่ว่างเปล่า</value>
+  </data>
+  <data name="quxiao" xml:space="preserve">
+    <value>ยกเลิก</value>
+  </data>
+  <data name="shanchu" xml:space="preserve">
+    <value>ว่างเปล่า </value>
+  </data>
+  <data name="shezhi.Text" xml:space="preserve">
+    <value>การตั้งค่า</value>
+  </data>
+  <data name="sheZhi2" xml:space="preserve">
+    <value>การตั้งค่า</value>
+  </data>
+  <data name="shifouJiarushuqian" xml:space="preserve">
+    <value>บุ๊คมาร์คเพื่อความสะดวกในเว็บไซต์นี้ค้นหาในภายหลัง</value>
+  </data>
+  <data name="shouye.Text" xml:space="preserve">
+    <value>หน้าแรก</value>
+  </data>
+  <data name="shuqian.Text" xml:space="preserve">
+    <value>ที่คั่นหน้า</value>
+  </data>
+  <data name="shuQian2" xml:space="preserve">
+    <value>ที่คั่นหน้า</value>
+  </data>
+  <data name="tianShuQian" xml:space="preserve">
+    <value>บุ๊คมาร์ก</value>
+  </data>
+  <data name="tiaoJiLu" xml:space="preserve">
+    <value>บทความประวัติศาสตร์</value>
+  </data>
+  <data name="wuXiaZai" xml:space="preserve">
+    <value>ดาวน์โหลดฟรี</value>
+  </data>
+  <data name="xiazai.Text" xml:space="preserve">
+    <value>ดาวน์โหลด</value>
+  </data>
+  <data name="xiaZai2" xml:space="preserve">
+    <value>ดาวน์โหลดคอร์ด</value>
+  </data>
+  <data name="youqingtixing" xml:space="preserve">
+    <value>เคล็ดลับ</value>
+  </data>
+  <data name="zanbujiaru" xml:space="preserve">
+    <value>ไม่เข้าร่วม</value>
+  </data>
+  <data name="gotoStore.Text" xml:space="preserve">
+    <value>ร้านของเรา</value>
+  </data>
+  <data name="ThemeSettingOk" xml:space="preserve">
+    <value>ชุดรูปแบบสีชุดสำเร็จ เริ่มโปรแกรมเพื่อทำการตั้งค่ามีผล</value>
+  </data>
+  <data name="ThemeSettingFail" xml:space="preserve">
+    <value>ติดตั้งล้มเหลว ติดต่อ นักพัฒนาแก้ไข (BUG)</value>
+  </data>
+  <data name="ThemeColor.Text" xml:space="preserve">
+    <value>ชุดรูปแบบสี</value>
+  </data>
+  <data name="AppName" xml:space="preserve">
+    <value>เบราว์เซอร์ที่รวดเร็ว</value>
+  </data>
+</root>

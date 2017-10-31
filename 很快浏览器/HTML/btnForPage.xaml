@@ -1,0 +1,29 @@
+﻿<UserControl
+    x:Class="HTML.btnForPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:HTML"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="41.518"
+    d:DesignWidth="164.286" Width="165" Height="42">
+
+    <Grid x:Name="grid" BorderThickness="1,0,0,0">
+        <Grid.BorderBrush>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <LinearGradientBrush.RelativeTransform>
+                    <CompositeTransform CenterY="0.5" CenterX="0.5" Rotation="450"/>
+                </LinearGradientBrush.RelativeTransform>
+                <GradientStop Color="#FF919191" Offset="1"/>
+                <GradientStop Color="White"/>
+            </LinearGradientBrush>
+        </Grid.BorderBrush>
+        <Grid x:Name="backColor" Margin="0" Background="#ADFFFFFF"/>
+
+        <TextBlock x:Name="textBlock" Margin="2,10,38,10" TextWrapping="Wrap" Text="TextBlock"/>
+        <Button x:Name="btnForselect" Content="" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Style="{StaticResource JYNomalButton}" Click="btnForselect_Click" Height="44" Foreground="{x:Null}" Background="#00131313" Margin="0,0,37,-2"/>
+        <Button x:Name="button" Content="&#xE711;" HorizontalAlignment="Left" Margin="126,6,0,0" VerticalAlignment="Top" Width="38" Height="30" FontFamily="Segoe MDL2 Assets" Click="button_Click" Background="{x:Null}"/>
+
+    </Grid>
+</UserControl>

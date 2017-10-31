@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="jiaru" xml:space="preserve">
+    <value>انضمام إلى</value>
+  </data>
+  <data name="lishijilu.Text" xml:space="preserve">
+    <value>السجل التاريخي</value>
+  </data>
+  <data name="liShiJiLu2" xml:space="preserve">
+    <value>السجل التاريخي</value>
+  </data>
+  <data name="liuLanSheZhi" xml:space="preserve">
+    <value>إعدادات المستعرض</value>
+  </data>
+  <data name="noJiLu" xml:space="preserve">
+    <value>لا توجد سجلات تاريخية</value>
+  </data>
+  <data name="noShuQian" xml:space="preserve">
+    <value>لم تقم بحفظ أية إشارات مرجعية</value>
+  </data>
+  <data name="qingkongLishi" xml:space="preserve">
+    <value>العزم على إفراغ هذه السجلات التاريخية؟</value>
+  </data>
+  <data name="qingKongShuQian" xml:space="preserve">
+    <value>العزم على إفراغ لهم؟</value>
+  </data>
+  <data name="qingKongTiXing" xml:space="preserve">
+    <value>تذكير فارغة</value>
+  </data>
+  <data name="quxiao" xml:space="preserve">
+    <value>يلغي</value>
+  </data>
+  <data name="shanchu" xml:space="preserve">
+    <value>فارغة </value>
+  </data>
+  <data name="shezhi.Text" xml:space="preserve">
+    <value>إعدادات</value>
+  </data>
+  <data name="sheZhi2" xml:space="preserve">
+    <value>إعدادات</value>
+  </data>
+  <data name="shifouJiarushuqian" xml:space="preserve">
+    <value>إشارة مرجعية لتسهيل العثور على أحدث موقع ويب هذا؟</value>
+  </data>
+  <data name="shouye.Text" xml:space="preserve">
+    <value>الصفحة الأولى</value>
+  </data>
+  <data name="shuqian.Text" xml:space="preserve">
+    <value>إشارة مرجعية</value>
+  </data>
+  <data name="shuQian2" xml:space="preserve">
+    <value>إشارة مرجعية</value>
+  </data>
+  <data name="tianShuQian" xml:space="preserve">
+    <value>الإشارة المرجعية</value>
+  </data>
+  <data name="tiaoJiLu" xml:space="preserve">
+    <value>التاريخ المادة</value>
+  </data>
+  <data name="wuXiaZai" xml:space="preserve">
+    <value>تحميل مجاني</value>
+  </data>
+  <data name="xiazai.Text" xml:space="preserve">
+    <value>تنزيل</value>
+  </data>
+  <data name="xiaZai2" xml:space="preserve">
+    <value>تحميل السجل</value>
+  </data>
+  <data name="youqingtixing" xml:space="preserve">
+    <value>نصائح</value>
+  </data>
+  <data name="zanbujiaru" xml:space="preserve">
+    <value>لم تنضم إلى</value>
+  </data>
+  <data name="gotoStore.Text" xml:space="preserve">
+    <value>التسوق لدينا</value>
+  </data>
+  <data name="ThemeSettingOk" xml:space="preserve">
+    <value>لون السمة المحددة بنجاح، قم بإعادة تشغيل البرنامج بغية جعل الإعدادات نافذة المفعول</value>
+  </data>
+  <data name="ThemeSettingFail" xml:space="preserve">
+    <value>الإعداد الفاشلة، الاتصال للمطورين إصلاح هذه المشكلة (خطأ)</value>
+  </data>
+  <data name="ThemeColor.Text" xml:space="preserve">
+    <value>لون النسق</value>
+  </data>
+  <data name="AppName" xml:space="preserve">
+    <value>متصفح سريع</value>
+  </data>
+</root>

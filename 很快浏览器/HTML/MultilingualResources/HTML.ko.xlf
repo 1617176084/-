@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="zh-Hans" target-language="ko" original="HTML/STRINGS/ZH-HANS/RESOURCES.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1605.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="HTML/STRINGS/ZH-HANS/RESOURCES.RESW" datatype="resx">
+        <trans-unit id="jiaru" translate="yes" xml:space="preserve">
+          <source>加入</source>
+          <target state="needs-review-translation" state-qualifier="exact-match">참가</target>
+        </trans-unit>
+        <trans-unit id="lishijilu.Text" translate="yes" xml:space="preserve">
+          <source>历史纪录</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">역사적 기록</target>
+        </trans-unit>
+        <trans-unit id="liShiJiLu2" translate="yes" xml:space="preserve">
+          <source>历史纪录</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">역사적 기록</target>
+        </trans-unit>
+        <trans-unit id="liuLanSheZhi" translate="yes" xml:space="preserve">
+          <source>浏览器设置</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">브라우저 설정</target>
+        </trans-unit>
+        <trans-unit id="noJiLu" translate="yes" xml:space="preserve">
+          <source>无历史记录</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">아니 역사 기록</target>
+        </trans-unit>
+        <trans-unit id="noShuQian" translate="yes" xml:space="preserve">
+          <source>您还没保存过书签</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">모든 책갈피를 저장 하지 않은</target>
+        </trans-unit>
+        <trans-unit id="qingkongLishi" translate="yes" xml:space="preserve">
+          <source>确定清空这些历史纪录？</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">이러한 역사적 기록을를 결정?</target>
+        </trans-unit>
+        <trans-unit id="qingKongShuQian" translate="yes" xml:space="preserve">
+          <source>确定清空这些书签？</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">그들 빈 결정?</target>
+        </trans-unit>
+        <trans-unit id="qingKongTiXing" translate="yes" xml:space="preserve">
+          <source>清空提醒</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">빈 알림</target>
+        </trans-unit>
+        <trans-unit id="quxiao" translate="yes" xml:space="preserve">
+          <source>取消</source>
+          <target state="needs-review-translation" state-qualifier="exact-match">취소하다</target>
+        </trans-unit>
+        <trans-unit id="shanchu" translate="yes" xml:space="preserve">
+          <source>空 </source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">빈 </target>
+        </trans-unit>
+        <trans-unit id="shezhi.Text" translate="yes" xml:space="preserve">
+          <source>设置</source>
+          <target state="needs-review-translation" state-qualifier="exact-match">설정</target>
+        </trans-unit>
+        <trans-unit id="sheZhi2" translate="yes" xml:space="preserve">
+          <source>设置</source>
+          <target state="needs-review-translation" state-qualifier="exact-match">설정</target>
+        </trans-unit>
+        <trans-unit id="shifouJiarushuqian" translate="yes" xml:space="preserve">
+          <source>是否加入书签，以方便以后快速找到此网址？</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">용이 나중 발견이 웹 사이트를 즐겨찾기에?</target>
+        </trans-unit>
+        <trans-unit id="shouye.Text" translate="yes" xml:space="preserve">
+          <source>主页</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">첫 페이지</target>
+        </trans-unit>
+        <trans-unit id="shuqian.Text" translate="yes" xml:space="preserve">
+          <source>书签</source>
+          <target state="needs-review-translation" state-qualifier="exact-match">책갈피</target>
+        </trans-unit>
+        <trans-unit id="shuQian2" translate="yes" xml:space="preserve">
+          <source>书签</source>
+          <target state="needs-review-translation" state-qualifier="exact-match">책갈피</target>
+        </trans-unit>
+        <trans-unit id="tianShuQian" translate="yes" xml:space="preserve">
+          <source>条书签</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">책갈피</target>
+        </trans-unit>
+        <trans-unit id="tiaoJiLu" translate="yes" xml:space="preserve">
+          <source>条历史纪录</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">문서 역사</target>
+        </trans-unit>
+        <trans-unit id="wuXiaZai" translate="yes" xml:space="preserve">
+          <source>无下载记录</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">무료 다운로드</target>
+        </trans-unit>
+        <trans-unit id="xiazai.Text" translate="yes" xml:space="preserve">
+          <source>下载</source>
+          <target state="needs-review-translation" state-qualifier="exact-match">다운로드</target>
+        </trans-unit>
+        <trans-unit id="xiaZai2" translate="yes" xml:space="preserve">
+          <source>下载记录</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">다운로드 기록</target>
+        </trans-unit>
+        <trans-unit id="youqingtixing" translate="yes" xml:space="preserve">
+          <source>友情提示</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">팁</target>
+        </trans-unit>
+        <trans-unit id="zanbujiaru" translate="yes" xml:space="preserve">
+          <source>暂时不加入</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">가입 하지 않으면</target>
+        </trans-unit>
+        <trans-unit id="gotoStore.Text" translate="yes" xml:space="preserve">
+          <source>去商店评价我们</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">게 우리의</target>
+        </trans-unit>
+        <trans-unit id="ThemeSettingOk" translate="yes" xml:space="preserve">
+          <source>主题色设置成功，请重启本程序，才能使本次设置生效</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">성공적으로 설정 테마 색상 설정을 적용 하려면 프로그램을 다시 시작</target>
+        </trans-unit>
+        <trans-unit id="ThemeSettingFail" translate="yes" xml:space="preserve">
+          <source>设置失败，请联系开发者进行修复此问题（BUG）</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">설치 실패, 연락처 (버그)이이 문제를 해결 하는 개발자</target>
+        </trans-unit>
+        <trans-unit id="ThemeColor.Text" translate="yes" xml:space="preserve">
+          <source>主题颜色</source>
+          <target state="needs-review-translation" state-qualifier="exact-match">테마 색</target>
+        </trans-unit>
+        <trans-unit id="AppName" translate="yes" xml:space="preserve">
+          <source>很快浏览器</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">빠른 브라우저</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
